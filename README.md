@@ -1,2 +1,2 @@
-# ar-sarawak-catalog
+# AR Sarawak Catalog
 This is AR Sarawak Catalog repository.
